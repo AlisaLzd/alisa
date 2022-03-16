@@ -127,7 +127,7 @@ a:hover {
 
   .profile {
     width: 100%;
-    margin: 100px 0 100px 0;
+    margin: 100px 0 100px auto;
     text-align: center;
     line-height: 2;
 
@@ -149,13 +149,10 @@ a:hover {
 
   }
 
-  .profile {
 
-    width: 90%;
-  }
   .contact-me {
     width: 100%;
-    margin: 100px 0 100px 0;
+    margin: 100px 0 100px auto;
     text-align: center;
     line-height: 2;
 
