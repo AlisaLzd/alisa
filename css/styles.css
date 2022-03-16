@@ -128,7 +128,7 @@ a:hover {
   .top-container {
 
 
-    margin: auto;
+    margin: 0;
   }
 
 
@@ -153,7 +153,7 @@ a:hover {
   }
   .contact-me {
     width: 90%;
-margin: auto;
+margin: 0;
   }
 
 
