@@ -24,7 +24,7 @@ h3 {
 }
 .top-container {
 
-  background-color: #FDEFF4;
+  background-color:#FFC0D3;
 
 }
 hr {
@@ -118,29 +118,37 @@ a:hover {
 @media (max-width:900px) {
 
 
-  .skill-row {
-    width: 90%;
+  h1 {
+
+    padding-top: 100px;
+    margin: 0;
 
   }
+
+
+  .skill-row {
+    width: 90%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+  }
   .dumbell {
-    width:50%;
+    width: 50%;
 
   }
   .pc {
     width: 50%;
 
   }
-  .palm {
-background-color: #FFC0D3;
 
-  }
   .profile {
 
-    width: 60%;
+    width: 90%;
   }
   .contact-me {
     width: 90%;
 
   }
-  
+
+
 }
