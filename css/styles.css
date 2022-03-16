@@ -126,9 +126,11 @@ a:hover {
   }
 
   .top-container {
+    width: 90%;
+    margin: 100px auto 100px auto;
+    text-align: center;
+    line-height: 2;
 
-
-    margin: 0;
   }
 
 
@@ -153,7 +155,10 @@ a:hover {
   }
   .contact-me {
     width: 90%;
-margin: 0;
+    margin: 100px auto 100px auto;
+    text-align: center;
+    line-height: 2;
+  
   }
 
 
