@@ -114,3 +114,51 @@ a{
 a:hover {
   color: #FF5C8D;
 }
+
+@media (max-width:900px) {
+  body {
+
+    font-size: 2rem;
+  }
+  h1 {
+    font-size: 10rem;
+
+  }
+  h2 {
+
+    font-size: 4rem;
+
+  }
+
+  .skill-row {
+    width: 100%;
+
+  }
+  .dumbell {
+    width: 50%;
+
+  }
+  .pc {
+    width: 50%;
+
+  }
+
+  .profile {
+
+    width: 80%;
+  }
+  .contact-me {
+    width: 100%;
+
+  }
+
+
+  .btn {
+
+    font-size: 40px;
+
+  }
+
+
+  
+}
