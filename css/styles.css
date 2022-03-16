@@ -49,7 +49,7 @@ hr {
 margin-right: 30px;
 }
 .palm {
-width: 5%;
+width: 50%;
 margin: auto;
 
 }
@@ -124,10 +124,9 @@ a:hover {
     margin: 0;
 
   }
-  .palm {
-width:5%;
 
-  }
+
+  
 
   .skill-row {
     width: 90%;
