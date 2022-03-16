@@ -124,7 +124,11 @@ a:hover {
     margin: 0;
 
   }
+  .palm {
+  width: 20%;
+  margin: auto;
 
+  }
 
   .skill-row {
     width: 90%;
